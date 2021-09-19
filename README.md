@@ -1,5 +1,1 @@
-# Hello 
-
-Currently learning Python and focusing on Dev Sec Ops/SRE skills.
-
-You can follow my updates at [my site](https://angel-alvarez.dev)
+[![Azteks GitHub stats](https://github-readme-stats.vercel.app/api?username=aztek1337)](https://github.com/anuraghazra/github-readme-stats)
