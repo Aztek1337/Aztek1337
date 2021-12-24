@@ -2,4 +2,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aztek1337&theme=gruvbox&hide=C,objective-C&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+Security Engineer
+
 Please visit my [site](htttps://angel-alvarez.dev) for contact info
